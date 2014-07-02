@@ -1,4 +1,4 @@
 frontend-bundle
 ===============
 
-Single page application bundle for fronend work
+Single page application bundle for frontend work.
