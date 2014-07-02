@@ -1,5 +1,5 @@
 {
-    "name" : "filemanager",
+    "name" : "frontend-bundle",
     "version" : "0.0.1",
     "dependencies" : {
 		"browserify": "~4.1.11",
