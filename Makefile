@@ -2,7 +2,7 @@
 all:
 	rm -rf dist; mkdir dist
 	npm install 
-	atomify -j app/js/index.js -t funkify -c app/css/index.css -o dist/bundle
+	atomify -j app/js/index.js -t funkify -c app/css/index.less -o dist/bundle
 
 
 clean:
